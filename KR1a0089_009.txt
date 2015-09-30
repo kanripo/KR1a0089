@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易參義
-#+DATE: 2015-09-23 09:35:02
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 21:57:14.262840
+#+PROPERTY: ID KR1a0089
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0089_WYG_009-1a>¶
 欽定四庫全書¶
 　周易參義卷九¶
@@ -236,4 +238,3 @@
 　¶
 　¶
 　周易參義卷九¶
-
